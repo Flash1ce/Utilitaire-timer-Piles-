@@ -1,0 +1,8 @@
+D:\Timer\Timer\bin\Release\Timer.exe.config
+D:\Timer\Timer\bin\Release\Timer.exe
+D:\Timer\Timer\bin\Release\Timer.pdb
+D:\Timer\Timer\obj\Release\Timer.Form1.resources
+D:\Timer\Timer\obj\Release\Timer.Properties.Resources.resources
+D:\Timer\Timer\obj\Release\Timer.csproj.GenerateResource.cache
+D:\Timer\Timer\obj\Release\Timer.exe
+D:\Timer\Timer\obj\Release\Timer.pdb
